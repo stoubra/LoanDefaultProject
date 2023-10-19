@@ -15,7 +15,6 @@ str(data)
 summary(data)
 #Aucun constan 
 
-
 #***********************************************************#***********************************#
 #Construction des bases de données train, test
 set.seed(1)
